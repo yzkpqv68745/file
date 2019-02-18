@@ -8,9 +8,9 @@
   "magisk": {
     "version": "18.2-6412bfc7",
     "versionCode": "18106",
-    "link": "https://raw.githubusercontent.com/yzkpqv68745/file/master/Magisk-v18.1-6412bfc7b.zip",
+    "link": "https://raw.githubusercontent.com/yzkpqv68745/file/master/Magisk-v18.1-3ebc886f8.zip",
     "note": "https://raw.githubusercontent.com/topjohnwu/magisk_files/master/canary_builds/notes.md",
-    "md5": "4f81066bdc04c8eafd7ac94a99980baf"
+    "md5": "086fdd73ce9cd713ebe2729b60d5aa2f"
   },
   "uninstaller": {
     "link": "https://raw.githubusercontent.com/topjohnwu/magisk_files/master/canary_builds/magisk-uninstaller.zip"
